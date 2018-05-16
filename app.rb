@@ -1,9 +1,14 @@
 require 'sinatra'
+require 'rubygems'
 
 get '/' do
-  "<p>Test</p><br><a href='test'>Hello</a>"
+  @cake_list = File.open("cake.list", "r")
+  @counter = 1
+  erb :index
+  #@cake_list.close
 end
 
 get '/test' do
   "Testing testing!"
 end
+

@@ -1,0 +1,5 @@
+<h1>Cake List:</h1>
+<% @cake_list.each_line do |cake| %>
+  <%= @counter %>. <%= cake %><br>
+  <% @counter += 1 %>
+<% end %>
