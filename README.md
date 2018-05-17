@@ -50,5 +50,13 @@ Deployed Example
 ================
 
 http://vast-springs-3657.herokuapp.com/
+
+My Example
+==========
+
 http://sinatrademo-pcodes.herokuapp.com
+
+Now wiith JSON!
+===============
+http://sinatrademo-pcodes.herokuapp.com/json
 
