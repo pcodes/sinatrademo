@@ -56,7 +56,7 @@ My Example
 
 http://sinatrademo-pcodes.herokuapp.com
 
-Now wiith JSON!
+Now with JSON!
 ===============
 http://sinatrademo-pcodes.herokuapp.com/json
 
